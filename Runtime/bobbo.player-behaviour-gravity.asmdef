@@ -2,7 +2,7 @@
     "name": "BobboNet.PlayerBehaviour.Gravity",
     "references": [
         "Zenject",
-        "BobboNet.PlayerController,
+        "BobboNet.PlayerController",
         "BobboNet.MultiLock"
     ],
     "includePlatforms": [],

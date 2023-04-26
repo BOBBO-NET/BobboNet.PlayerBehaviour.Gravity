@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.PlayerBehaviour.Gravity
+namespace BobboNet.PlayerBehaviours
 {
     [CreateAssetMenu(fileName = "PlayerBehaviourGravityInstaller", menuName = "Installers/PlayerBehaviourGravityInstaller")]
     public class PlayerBehaviourGravityInstaller : ScriptableObjectInstaller<PlayerBehaviourGravityInstaller>

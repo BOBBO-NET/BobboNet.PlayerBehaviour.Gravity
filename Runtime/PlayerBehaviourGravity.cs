@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
+using BobboNet.Player;
 
-namespace BobboNet.PlayerBehaviour.Gravity
+namespace BobboNet.PlayerBehaviours
 {
     public class PlayerBehaviourGravity : PlayerBehaviour
     {
